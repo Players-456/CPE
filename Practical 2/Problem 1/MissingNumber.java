@@ -20,7 +20,7 @@ public class MissingNumber {
 
     public static void main(String[] args) {
 
-        int[] nums = {13, 45, 21};
+        int[] nums = {3, 0, 1};
 
         System.out.println("Missing Number = " + missingNumber(nums));
     }
